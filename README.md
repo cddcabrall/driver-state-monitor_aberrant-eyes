@@ -1,2 +1,0 @@
-# driver-state-monitor_aberrant-eyes
-DSM 1 functions by simultaneously processing eye-behaviour data through three separate analyses to detect non-mutually exclusive sub-states of driver distraction, drowsiness, and/or cognitive overload. DSM 1 consequentially triggers and raises a general elevated detection of off-nominal driver eyes based on the presence of any of these compromised driver states.
